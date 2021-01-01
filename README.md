@@ -1,4 +1,4 @@
-# CRD-operations-of-a-file-based-key-value-data-store
+File based key value data store using CRD operations
 This is a file which can be exposed as a library that supports the basic CRD(create, read, write) operations. Data store is meant to local storage for one single process on single laptop
 
 The data store will support the following :
